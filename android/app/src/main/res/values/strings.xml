@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AZLAN-SAAD</string>
+    <string name="title_activity_main">AZLAN-SAAD</string>
+    <string name="package_name">com.saad.azlan</string>
+    <string name="custom_url_scheme">com.saad.azlan</string>
+</resources>
